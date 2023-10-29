@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "static")(type "KiCad")(uri "${KIPRJMOD}/static-lib/static.kicad_sym")(options "")(descr ""))
+  (lib (name "nice-nano")(type "KiCad")(uri "${KIPRJMOD}/nice-nano-lib/nice_nano.kicad_sym")(options "")(descr ""))
 )
